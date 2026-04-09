@@ -90,9 +90,4 @@ Body:
 * Tested APIs using Postman
 
 👨‍💻 Author
-
-Raj Binayak
-
-📌 Note
-
-This project was built as part of an internship assignment to demonstrate backend development skills and problem-solving approach.
+Prakul Dobriyal
