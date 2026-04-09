@@ -29,7 +29,7 @@ notes-api/
 ⚙️ Setup Instructions
 
 1. Clone the repository:
-   git clone https://github.com/your-username/notes-api.git
+   git clone https://github.com/prakul003/notes-api.git
 
 2. Navigate to the folder:
    cd notes-api
